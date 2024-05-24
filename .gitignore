@@ -1,0 +1,7 @@
+sketches/
+cores/
+.cache/
+
+*.elf
+*.hex
+*.o
